@@ -1,3 +1,8 @@
+body{
+    background: linear-gradient(#fc03be 0%, #c059f0 100%);
+}
+
+
 .menu1 {
     position: fixed;
     background: white;
